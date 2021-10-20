@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+.background{
+    background-image : url(BG1.jpeg);
+    background-repeat : no-repeat;
+    background-size : cover;
+    background-position: center;
+    color :antiquewhite;
+    font-family: 'Satisfy', cursive;
+    font-size: 20px;
+}
+#my_canvas{
+    border: 10px ridge blueviolet;
+    background-color: aliceblue;
+
+}
